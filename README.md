@@ -10,7 +10,7 @@
 [![](https://img.shields.io/badge/-SkillKit-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/rbarcenas-mx/skillkit)
 [![](https://img.shields.io/badge/-Mandadero-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/rbarcenas-mx/errand)
 ![](https://img.shields.io/badge/-Ex_MeLi_Fintech_%26_Credits-FFE600?style=flat-square&logo=mercadopago&logoColor=black)
-🇲🇽 **CDMX / Querétaro**
+![](https://img.shields.io/badge/-CDMX_/_Querétaro-1a1a1a?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMCAyMCI+PHJlY3Qgd2lkdGg9IjEwIiBoZWlnaHQ9IjIwIiBmaWxsPSIjMDA2ODQ3Ii8+PHJlY3QgeD0iMTAiIHdpZHRoPSIxMCIgaGVpZ2h0PSIyMCIgZmlsbD0iI2ZmZiIvPjxyZWN0IHg9IjIwIiB3aWR0aD0iMTAiIGhlaWdodD0iMjAiIGZpbGw9IiNjZTExMjYiLz48L3N2Zz4=)
 
 ![](https://komarev.com/ghpvc/?username=rbarcenas-mx&style=flat-square&color=blue)
 
