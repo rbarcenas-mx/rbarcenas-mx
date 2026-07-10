@@ -4,9 +4,12 @@
 
 ### Engineering Manager · Fintech Platforms · AI-Driven DevEx
 
+**Ex Mercado Libre** · Fintech Platforms (Mercado Pago) & Credits (Mercado Crédito)
+
 [![](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/robertobarcenas)
 [![](https://img.shields.io/badge/-SkillKit-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/rbarcenas-mx/skillkit)
 [![](https://img.shields.io/badge/-Mandadero-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/rbarcenas-mx/errand)
+![](https://img.shields.io/badge/-Ex_MeLi_Fintech_%26_Credits-FFE600?style=flat-square&logo=mercadopago&logoColor=black)
 ![](https://img.shields.io/badge/-CDMX-1a1a1a?style=flat-square)
 
 ![](https://komarev.com/ghpvc/?username=rbarcenas-mx&style=flat-square&color=blue)
