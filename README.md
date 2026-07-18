@@ -31,16 +31,12 @@ EN | Engineering leader with **16+ years building financial platforms** processi
 ### Mi enfoque de liderazgo · My Leadership Approach
 
 ES | Lidero como me gustaría ser liderado: con claridad, confianza y sin miedo a preguntar. Mi trabajo no es tener todas las respuestas — es construir un entorno donde el equipo las encuentre más rápido juntos.
-
-ES | El liderazgo de ingeniería es una disciplina humana primero. Las mejores arquitecturas surgen de equipos que se sienten seguros de cuestionarse entre sí. Diagnostico preguntando: ¿proceso, personas o tecnología? Casi siempre son los primeros dos — por eso invierto en DevEx, no por la automatización en sí, sino para liberar a la gente buena para que haga su mejor trabajo.
-
-ES | Me mido por si mi equipo está creciendo, entregando y durmiendo bien por la noche. Lo que más me enorgullece no es la escala — es que los equipos que he construido siguen prosperando después de que yo me retiro.
+El liderazgo de ingeniería es una disciplina humana primero. Las mejores arquitecturas surgen de equipos que se sienten seguros de cuestionarse entre sí. Diagnostico preguntando: ¿proceso, personas o tecnología? Casi siempre son los primeros dos — por eso invierto en DevEx, no por la automatización en sí, sino para liberar a la gente buena para que haga su mejor trabajo.
+Me mido por si mi equipo está creciendo, entregando y durmiendo bien por la noche. Lo que más me enorgullece no es la escala — es que los equipos que he construido siguen prosperando después de que yo me retiro.
 
 EN | I lead the way I'd want to be led: with clarity, trust, and a low bar for asking questions. My job isn't to have all the answers — it's to build an environment where the team finds them faster together.
-
-EN | Engineering leadership is a human discipline first. The best architectures emerge from teams that feel safe enough to challenge each other. I debug by asking: process, people, or technology? Most of the time it's the first two — so I invest in DevEx not for automation's sake, but to unblock good people from doing their best work.
-
-EN | I measure myself by whether my team is growing, shipping, and sleeping well at night. What I'm most proud of isn't the scale — it's that the teams I've built keep thriving after I step back.
+Engineering leadership is a human discipline first. The best architectures emerge from teams that feel safe enough to challenge each other. I debug by asking: process, people, or technology? Most of the time it's the first two — so I invest in DevEx not for automation's sake, but to unblock good people from doing their best work.
+I measure myself by whether my team is growing, shipping, and sleeping well at night. What I'm most proud of isn't the scale — it's that the teams I've built keep thriving after I step back.
 
 ---
 
@@ -101,12 +97,10 @@ EN | I measure myself by whether my team is growing, shipping, and sleeping well
 **Skills + Token Budget Engine**
 
 ES | Framework de skills para AI coding agents (Anthropic-format) con enrutamiento inteligente de modelos según presupuesto de tokens. Skills listas para CI, QA, auditoría y revisión de PRs — orchestrator remoto + executor local vía Ollama.
-
-ES | **Arquitectura híbrida:** El modelo remoto (orquestador) descompone tareas y coordina ejecutores locales resueltos por `TOKEN_BUDGET` (low=Ollama gratis, medium=balance, high=premium). Degradación graceful si un modelo no está disponible.
+**Arquitectura híbrida:** El modelo remoto (orquestador) descompone tareas y coordina ejecutores locales resueltos por `TOKEN_BUDGET` (low=Ollama gratis, medium=balance, high=premium). Degradación graceful si un modelo no está disponible.
 
 EN | Skills framework for AI coding agents (Anthropic-format) with smart model routing based on token budget. Skills ready for CI, QA, audit, and PR review — remote orchestrator + local executor via Ollama.
-
-EN | **Hybrid architecture:** The remote model (orchestrator) decomposes tasks and coordinates local executors resolved by `TOKEN_BUDGET` (low=Ollama free, medium=balance, high=premium). Graceful degradation if a model is unavailable.
+**Hybrid architecture:** The remote model (orchestrator) decomposes tasks and coordinates local executors resolved by `TOKEN_BUDGET` (low=Ollama free, medium=balance, high=premium). Graceful degradation if a model is unavailable.
 
 `skillkit/` — 10 skills · Python · MIT
 
