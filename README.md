@@ -30,13 +30,9 @@ EN | Engineering leader with **16+ years building financial platforms** processi
 
 ### Mi enfoque de liderazgo · My Leadership Approach
 
-ES | Lidero como me gustaría ser liderado: con claridad, confianza y sin miedo a preguntar. Mi trabajo no es tener todas las respuestas — es construir un entorno donde el equipo las encuentre más rápido juntos.
-El liderazgo de ingeniería es una disciplina humana primero. Las mejores arquitecturas surgen de equipos que se sienten seguros de cuestionarse entre sí. Diagnostico preguntando: ¿proceso, personas o tecnología? Casi siempre son los primeros dos — por eso invierto en DevEx, no por la automatización en sí, sino para liberar a la gente buena para que haga su mejor trabajo.
-Me mido por si mi equipo está creciendo, entregando y durmiendo bien por la noche. Lo que más me enorgullece no es la escala — es que los equipos que he construido siguen prosperando después de que yo me retiro.
+ES | Lidero con claridad, confianza y sin miedo a preguntar. Mi trabajo no es tener todas las respuestas — es construir un entorno donde el equipo las encuentre más rápido juntos. Diagnostico los problemas preguntando: ¿proceso, personas o tecnología? Casi siempre son los primeros dos — por eso invierto en DevEx, no por la automatización, sino para liberar a la gente buena. Me mido por si mi equipo crece, entrega y duerme bien.
 
-EN | I lead the way I'd want to be led: with clarity, trust, and a low bar for asking questions. My job isn't to have all the answers — it's to build an environment where the team finds them faster together.
-Engineering leadership is a human discipline first. The best architectures emerge from teams that feel safe enough to challenge each other. I debug by asking: process, people, or technology? Most of the time it's the first two — so I invest in DevEx not for automation's sake, but to unblock good people from doing their best work.
-I measure myself by whether my team is growing, shipping, and sleeping well at night. What I'm most proud of isn't the scale — it's that the teams I've built keep thriving after I step back.
+EN | I lead with clarity, trust, and a low bar for asking questions. My job isn't to have all the answers — it's to build an environment where the team finds them faster together. I debug by asking: process, people, or technology? Most of the time it's the first two — so I invest in DevEx not for automation's sake, but to unblock good people. I measure myself by whether my team is growing, shipping, and sleeping well.
 
 📝 Insights destacados · Featured Insights
 
