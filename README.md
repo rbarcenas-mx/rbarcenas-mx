@@ -37,12 +37,14 @@ EN | I lead with clarity, trust, and a low bar for asking questions. My job isn'
 📝 Insights destacados · Featured Insights
 
 ES |
-• [+108% PR reviews, -73% zombie PRs con automatización en MeLi](https://www.linkedin.com/posts/roberto-barcenas_mercadolibre-aiengineering-githubactions-activity-7467594630239461378-dtIm)
-• [Arquitectura híbrida: orquestador remoto + ejecutor local (Ollama + AMD ROCm)](https://www.linkedin.com/posts/roberto-barcenas_engineeringmanagement-techleadership-finops-activity-7477443294537646080--fmk)
+
+- [+108% PR reviews, -73% zombie PRs con automatización en MeLi](https://www.linkedin.com/posts/roberto-barcenas_mercadolibre-aiengineering-githubactions-activity-7467594630239461378-dtIm)
+- [Arquitectura híbrida: orquestador remoto + ejecutor local (Ollama + AMD ROCm)](https://www.linkedin.com/posts/roberto-barcenas_engineeringmanagement-techleadership-finops-activity-7477443294537646080--fmk)
 
 EN |
-• [+108% PR reviews, -73% zombie PRs with automation at MeLi](https://www.linkedin.com/posts/roberto-barcenas_mercadolibre-aiengineering-githubactions-activity-7467594630239461378-dtIm)
-• [Hybrid architecture: remote orchestrator + local executor (Ollama + AMD ROCm)](https://www.linkedin.com/posts/roberto-barcenas_engineeringmanagement-techleadership-finops-activity-7477443294537646080--fmk)
+
+- [+108% PR reviews, -73% zombie PRs with automation at MeLi](https://www.linkedin.com/posts/roberto-barcenas_mercadolibre-aiengineering-githubactions-activity-7467594630239461378-dtIm)
+- [Hybrid architecture: remote orchestrator + local executor (Ollama + AMD ROCm)](https://www.linkedin.com/posts/roberto-barcenas_engineeringmanagement-techleadership-finops-activity-7477443294537646080--fmk)
 
 ---
 
