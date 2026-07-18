@@ -92,6 +92,14 @@ I measure myself by whether my team is growing, shipping, and sleeping well at n
 
 ## Proyectos Destacados · Featured Projects
 
+### [LCB / LoL Context Builder](https://github.com/rbarcenas-mx/lcb) ![](https://img.shields.io/github/stars/rbarcenas-mx/lcb?style=flat-square) ![](https://img.shields.io/github/languages/top/rbarcenas-mx/lcb?style=flat-square)
+
+ES | LCB analiza capturas de pantalla de ARAM (League of Legends) — detecta campeones, muestra objetos recomendados y datos contextuales. 100% offline: visión por computadora local, sin APIs externas, sin telemetría.
+
+EN | LCB analyzes ARAM screenshots from League of Legends — detects champions, surfaces recommended items and contextual data. 100% offline: local computer vision, no external APIs, no telemetry.
+
+`lcb/` — TypeScript · Computer Vision · Offline-first
+
 ### [skillkit](https://github.com/rbarcenas-mx/skillkit) ![](https://img.shields.io/github/stars/rbarcenas-mx/skillkit?style=flat-square) ![](https://img.shields.io/github/languages/top/rbarcenas-mx/skillkit?style=flat-square)
 
 **Skills + Token Budget Engine**
