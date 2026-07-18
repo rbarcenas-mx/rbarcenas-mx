@@ -22,21 +22,23 @@
 
 ES | Ingeniero de software y líder técnico con **16+ años construyendo plataformas financieras** que procesan cientos de millones de operaciones al día. Mi enfoque está en **hacer equipos más efectivos**: combinando liderazgo humano con automatización inteligente para eliminar fricción, acelerar entregas y mantener sistemas críticos funcionando sin interrupción.
 
+> *"Engineering leadership no es solo escribir mejor código — es hacer que el equipo entero sea más efectivo."*
+
 EN | Engineering leader with **16+ years building financial platforms** processing hundreds of millions of operations daily. My focus is **making teams more effective**: combining human-centered leadership with intelligent automation to remove friction, accelerate delivery, and keep critical systems running without interruption.
 
-> *"Engineering leadership no es solo escribir mejor código — es hacer que el equipo entero sea más efectivo."*
+> *"Engineering leadership isn't just about writing better code — it's about making the entire team more effective."*
 
 ### Mi enfoque de liderazgo · My Leadership Approach
 
 ES | Lidero como me gustaría ser liderado: con claridad, confianza y sin miedo a preguntar. Mi trabajo no es tener todas las respuestas — es construir un entorno donde el equipo las encuentre más rápido juntos.
 
-EN | I lead the way I'd want to be led: with clarity, trust, and a low bar for asking questions. My job isn't to have all the answers — it's to build an environment where the team finds them faster together.
-
 ES | El liderazgo de ingeniería es una disciplina humana primero. Las mejores arquitecturas surgen de equipos que se sienten seguros de cuestionarse entre sí. Diagnostico preguntando: ¿proceso, personas o tecnología? Casi siempre son los primeros dos — por eso invierto en DevEx, no por la automatización en sí, sino para liberar a la gente buena para que haga su mejor trabajo.
 
-EN | Engineering leadership is a human discipline first. The best architectures emerge from teams that feel safe enough to challenge each other. I debug by asking: process, people, or technology? Most of the time it's the first two — so I invest in DevEx not for automation's sake, but to unblock good people from doing their best work.
-
 ES | Me mido por si mi equipo está creciendo, entregando y durmiendo bien por la noche. Lo que más me enorgullece no es la escala — es que los equipos que he construido siguen prosperando después de que yo me retiro.
+
+EN | I lead the way I'd want to be led: with clarity, trust, and a low bar for asking questions. My job isn't to have all the answers — it's to build an environment where the team finds them faster together.
+
+EN | Engineering leadership is a human discipline first. The best architectures emerge from teams that feel safe enough to challenge each other. I debug by asking: process, people, or technology? Most of the time it's the first two — so I invest in DevEx not for automation's sake, but to unblock good people from doing their best work.
 
 EN | I measure myself by whether my team is growing, shipping, and sleeping well at night. What I'm most proud of isn't the scale — it's that the teams I've built keep thriving after I step back.
 
@@ -46,11 +48,11 @@ EN | I measure myself by whether my team is growing, shipping, and sleeping well
 
 | Área · Area | Detalle · Detail |
 |---|---|
-| 🏗️ **Engineering Management** | ES: Equipos multi-disciplinarios de 8–15. People leadership, technical direction, stakeholder alignment. · EN: Multi-disciplinary teams of 8–15. People leadership, technical direction, stakeholder alignment. |
-| 🏦 **Fintech Platforms** | ES: Sistemas de pagos, contabilidad y data pipelines — Mercado Pago / Mercado Crédito en múltiples mercados LATAM. · EN: Payment systems, accounting, and data pipelines — Mercado Pago / Mercado Crédito across multiple LATAM markets. |
-| ⚡ **DevEx + AI Automation** | ES: AI-driven code review que redujo time-to-approval **60%** y zombie PRs **73%** (+108% reviews completadas). · EN: AI-driven code review that cut time-to-approval **60%** and zombie PRs **73%** (+108% reviews completed). |
-| 🧠 **Hybrid AI Architecture** | ES: 95–97% de tokens procesados localmente (Ollama + AMD ROCm), orquestación remota con modelos premium. · EN: 95–97% of tokens processed locally (Ollama + AMD ROCm), remote orchestration with premium models. |
-| 📊 **Data Pipelines** | ES: Procesamiento de **300M+ registros/día** con estrictos requisitos de corrección, auditabilidad y disponibilidad. · EN: Processing **300M+ records/day** with strict correctness, auditability, and availability requirements. |
+| 🏗️ **Engineering Management** | ES: Equipos multi-disciplinarios de 8–15. People leadership, technical direction, stakeholder alignment.<br>EN: Multi-disciplinary teams of 8–15. People leadership, technical direction, stakeholder alignment. |
+| 🏦 **Fintech Platforms** | ES: Sistemas de pagos, contabilidad y data pipelines — Mercado Pago / Mercado Crédito en múltiples mercados LATAM.<br>EN: Payment systems, accounting, and data pipelines — Mercado Pago / Mercado Crédito across multiple LATAM markets. |
+| ⚡ **DevEx + AI Automation** | ES: AI-driven code review que redujo time-to-approval **60%** y zombie PRs **73%** (+108% reviews completadas).<br>EN: AI-driven code review that cut time-to-approval **60%** and zombie PRs **73%** (+108% reviews completed). |
+| 🧠 **Hybrid AI Architecture** | ES: 95–97% de tokens procesados localmente (Ollama + AMD ROCm), orquestación remota con modelos premium.<br>EN: 95–97% of tokens processed locally (Ollama + AMD ROCm), remote orchestration with premium models. |
+| 📊 **Data Pipelines** | ES: Procesamiento de **300M+ registros/día** con estrictos requisitos de corrección, auditabilidad y disponibilidad.<br>EN: Processing **300M+ records/day** with strict correctness, auditability, and availability requirements. |
 
 ---
 
@@ -97,11 +99,12 @@ EN | I measure myself by whether my team is growing, shipping, and sleeping well
 ### [skillkit](https://github.com/rbarcenas-mx/skillkit) ![](https://img.shields.io/github/stars/rbarcenas-mx/skillkit?style=flat-square) ![](https://img.shields.io/github/languages/top/rbarcenas-mx/skillkit?style=flat-square)
 
 **Skills + Token Budget Engine**
+
 ES | Framework de skills para AI coding agents (Anthropic-format) con enrutamiento inteligente de modelos según presupuesto de tokens. Skills listas para CI, QA, auditoría y revisión de PRs — orchestrator remoto + executor local vía Ollama.
 
-EN | Skills framework for AI coding agents (Anthropic-format) with smart model routing based on token budget. Skills ready for CI, QA, audit, and PR review — remote orchestrator + local executor via Ollama.
-
 ES | **Arquitectura híbrida:** El modelo remoto (orquestador) descompone tareas y coordina ejecutores locales resueltos por `TOKEN_BUDGET` (low=Ollama gratis, medium=balance, high=premium). Degradación graceful si un modelo no está disponible.
+
+EN | Skills framework for AI coding agents (Anthropic-format) with smart model routing based on token budget. Skills ready for CI, QA, audit, and PR review — remote orchestrator + local executor via Ollama.
 
 EN | **Hybrid architecture:** The remote model (orchestrator) decomposes tasks and coordinates local executors resolved by `TOKEN_BUDGET` (low=Ollama free, medium=balance, high=premium). Graceful degradation if a model is unavailable.
 
