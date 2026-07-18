@@ -38,6 +38,12 @@ EN | I lead the way I'd want to be led: with clarity, trust, and a low bar for a
 Engineering leadership is a human discipline first. The best architectures emerge from teams that feel safe enough to challenge each other. I debug by asking: process, people, or technology? Most of the time it's the first two — so I invest in DevEx not for automation's sake, but to unblock good people from doing their best work.
 I measure myself by whether my team is growing, shipping, and sleeping well at night. What I'm most proud of isn't the scale — it's that the teams I've built keep thriving after I step back.
 
+📝 Insights destacados · Featured Insights
+
+ES | [+108% PR reviews, -73% zombie PRs con automatización en MeLi](https://www.linkedin.com/posts/roberto-barcenas_mercadolibre-aiengineering-githubactions-activity-7467594630239461378-dtIm) · [Arquitectura híbrida: orquestador remoto + ejecutor local (Ollama + AMD ROCm)](https://www.linkedin.com/posts/roberto-barcenas_engineeringmanagement-techleadership-finops-activity-7477443294537646080--fmk)
+
+EN | [+108% PR reviews, -73% zombie PRs with automation at MeLi](https://www.linkedin.com/posts/roberto-barcenas_mercadolibre-aiengineering-githubactions-activity-7467594630239461378-dtIm) · [Hybrid architecture: remote orchestrator + local executor (Ollama + AMD ROCm)](https://www.linkedin.com/posts/roberto-barcenas_engineeringmanagement-techleadership-finops-activity-7477443294537646080--fmk)
+
 ---
 
 ## Lo que hago · What I Do
