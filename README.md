@@ -112,7 +112,7 @@ EN | Skills framework for AI coding agents (Anthropic-format) with smart model r
 
 `skillkit/` — 10 skills · Python · MIT
 
-### [errand / Mandadero](https://github.com/rbarcenas-mx/errand) ![](https://img.shields.io/github/stars/rbarcenas-mx/errand?style=flat-square) ![](https://img.shields.io/github/languages/top/rbarcenas-mx/errand?style=flat-square)
+### 🔒 [errand / Mandadero](https://github.com/rbarcenas-mx/errand)
 
 ES | Plataforma on-demand que conecta personas que necesitan mandados con otras dispuestas a realizarlos en Querétaro. Backend en Node.js/TypeScript con PostgreSQL + PostGIS, autenticación JWT + OTP vía SMS (Twilio), subida de imágenes (Cloudinary), CI/CD con GitHub Actions.
 
