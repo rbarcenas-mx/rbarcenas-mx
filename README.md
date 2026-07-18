@@ -34,7 +34,7 @@ ES | Lidero con claridad, confianza y sin miedo a preguntar. Mi trabajo no es te
 
 EN | I lead with clarity, trust, and a low bar for asking questions. My job isn't to have all the answers — it's to build an environment where the team finds them faster together. I debug by asking: process, people, or technology? Most of the time it's the first two — so I invest in DevEx not for automation's sake, but to unblock good people. I measure myself by whether my team is growing, shipping, and sleeping well.
 
-📝 Insights destacados · Featured Insights
+### 📝 Insights destacados · Featured Insights
 
 ES |
 
